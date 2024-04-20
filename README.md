@@ -7,7 +7,13 @@ This is a block-editor like notion & lark docs which is base on slatejs.
 Run the following command:
 
 ```sh
-git clone
+git clone https://github.com/AlbertMok/blockeditor
+```
+
+```sh
+pnpm install
+pnpm build
+pnpm dev
 ```
 
 ## What's inside?
